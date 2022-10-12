@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adfdemokes"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
