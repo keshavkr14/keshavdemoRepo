@@ -1,9 +1,0 @@
-{
-	"name": "adfdemokes",
-	"location": "centralindia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b0de6292-ccdd-4ece-904f-f3b7ef67df6e",
-		"tenantId": "851fe64a-5691-4d81-832c-df58b7372347"
-	}
-}
